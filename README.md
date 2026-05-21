@@ -27,6 +27,9 @@ Pinterest
 
 Con la busqueda de imagenes decidi que trabajaria con el circulo como protagonista y al inspirarme de los ojos, estos tendrian movimiento con interaccion del mouse. 
 
+
+<img width="901" height="428" alt="image" src="https://github.com/user-attachments/assets/78285c5c-d225-4fdd-b625-b38ba911726f" />
+El color de fondo se penso para ser un solo tono pero no aportaba a la interaccion, por esto se decicio el cambio a base de los colores de la pupila. 
 ## paso a paso 
 
 Los codigos utilizados fueron los mismos utilizados en clase, para el uso y eleccion busque cuales tenian mayor relacion con lo que queria desarrollar y luego modificarlos. 
